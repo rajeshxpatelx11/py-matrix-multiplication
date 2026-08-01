@@ -1,2 +1,4 @@
-# py-matrix-multiplication
+# Py Matrix Multiplication
+
 Compute multiplication of two matrices in Python.
+
